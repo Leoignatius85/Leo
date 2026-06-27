@@ -1,0 +1,10 @@
+{
+  "name": "leo-ignatius-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfolio website with a lightweight contact form backend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
